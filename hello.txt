@@ -1,0 +1,42 @@
+Èñà Àêà Òóðöèÿ, [17.10.18 01:39]
+[In reply to Èñà Àêà Òóðöèÿ]
+Stage 1.
+1. Create a socket server on some port.
+2. Then try to connect to server from client using host and port.
+
+Stage 2.
+
+3. Create simple messenger with server and client.
+4. Multiple user messenger.
+
+Èñà Àêà Òóðöèÿ, [17.10.18 01:39]
+Instead of creating desktop app create command line app.
+
+Èñà Àêà Òóðöèÿ, [17.10.18 01:40]
+It is a taksk for you.
+
+Èñà Àêà Òóðöèÿ, [17.10.18 01:40]
+You can write in Java. For server use ServerSocket(port). For client use Socket(host, port)
+
+
+Task 1. Given an array a with n elements. Write function which sorts array
+Task 2. socket
+Task 3. Binary Sort
+Task 4. Рекурентные соотношения
+
+
+Имя: Tilek bayke
+Пароль: 2FKnCP9W
+
+
+
+
+
+
+
+
+
+
+
+
+
